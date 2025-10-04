@@ -6,7 +6,7 @@ renderscholar: Stop trusting LLMs with citations - search Google Scholar and get
 
 renderarxiv: Find cutting-edge research without the AI making up arXiv IDs
 
-rendergit-lite: Pick exactly which files to feed your AI - no more token limits from package-lock.json
+rendergit-lite: Render any GitHub repo to HTML, then checkbox-select which files to copy into your AI - skip the bloat
 
 **other work**
 
