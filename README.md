@@ -1,6 +1,4 @@
-check out what i'm working on
-
-recent projects:
+## check out what i'm working on
 
 **render-suite**
 
