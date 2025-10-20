@@ -13,3 +13,7 @@ renderstack: Pulls Stack Overflow Q&A with votes and accepted answers
 **other work**
 
 factorverse: Comprehensive R package for Bayesian Factor Models including functions to evaluate model fit, simulations to test/compare with. release soon
+
+arXiv News: A Hacker News-style platform for discovering and discussing research papers from arXiv.
+
+Pub Pages: Open source CV publication updater using custom google scholar scraper.
