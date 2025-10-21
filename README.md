@@ -17,5 +17,3 @@ factorverse: Comprehensive R package for Bayesian Factor Models including functi
 arXiv News: A Hacker News-style platform for discovering and discussing research papers from arXiv.
 
 Pub Pages: Open source GitHub Pages publication updater using custom google scholar scraper.
-
-![Profile Views](https://komarev.com/ghpvc/?username=peterdunson&color=ff6600&style=flat-square&label=Profile+Views)
