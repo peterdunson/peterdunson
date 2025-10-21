@@ -6,7 +6,7 @@ renderscholar: Custom google scholar scraper for human and LLM use
 
 renderarxiv: Find cutting-edge research without the AI making up arXiv IDs
 
-rendergit-lite: Render any GitHub repo to HTML, then checkbox-select which files to copy into your AI
+rendergit-lite: Render any GitHub repo to HTML, then checkbox-select which files to copy into LLM
 
 renderstack: Pulls Stack Overflow Q&A with votes and accepted answers
 
