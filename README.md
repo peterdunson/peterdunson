@@ -1,4 +1,4 @@
-## I build tools that make researchers’ lives easier
+## Check out what I'm working on
 
 **render-suite**
 
